@@ -1,0 +1,23 @@
+.icono{
+  background-color: #FBFBFB;
+  width: 18%;
+  height: 300px;
+  display:inline-block;
+  color: #A2A2A2;
+  font-family: 'Roboto', sans-serif;
+}
+
+#subtitle{
+  font-style: oblique;
+  height: 20px;
+}
+#parrafo{
+  height: 100px;
+}
+.icono:hover{
+  color: #A8BADA;
+  background-color: #fff;
+}
+.icono span{
+  height: 100px;
+}
